@@ -45,9 +45,14 @@
 
 ## 📊 GitHub Stats
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=IndranilBhattacharya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="border-radius:8px;" />
+</div>
+
 <div align="left"> 
-  <img width="48%" style="border-radius:8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndranilBhattacharya&layout=compact&langs_count=7&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-  <img width="48%" style="border-radius:8px;" src="https://github-readme-streak-stats.herokuapp.com/?user=IndranilBhattacharya&theme=radical&hide_border=true" />
+  <img width="48%" style="border-radius:8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndranilBhattacharya&layout=compact&langs_count=7&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=00000000" />
+
+<img width="48%" style="border-radius:8px;" src="https://github-readme-streak-stats.herokuapp.com/?user=IndranilBhattacharya&theme=radical&hide_border=true&background=00000000" />
 </div>
 
 ## 🎯 Featured Projects
@@ -57,14 +62,4 @@
 [![Music Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=subhasish-music-portfolio&theme=radical&border_radius=8)](https://github.com/IndranilBhattacharya/music-portfolio)
 [![Key Blocker](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=KEY_BLOCKER&theme=radical&border_radius=8)](https://github.com/IndranilBhattacharya/key-blocker)
 
-</div>
-
-## 📈 Contribution Graph
-
-<div align="left">
-  <img src="https://github.com/IndranilBhattacharya/IndranilBhattacharya/blob/output/github-contribution-grid-snake.svg" style="border-radius:8px;" />
-</div>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=IndranilBhattacharya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="border-radius:8px;" />
 </div>
