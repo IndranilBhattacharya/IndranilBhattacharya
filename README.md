@@ -50,15 +50,15 @@
 </div>
 
 <div align="left"> 
-  <img width="50%" style="border-radius:8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndranilBhattacharya&layout=compact&langs_count=7&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=00000000" />
+  <img width="48%" style="border-radius:8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndranilBhattacharya&layout=compact&langs_count=7&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=00000000" />
 
-<img width="50%" style="border-radius:8px;" src="https://github-readme-streak-stats.herokuapp.com/?user=IndranilBhattacharya&theme=radical&hide_border=true&background=00000000" />
+<img width="48%" style="border-radius:8px;" src="https://github-readme-streak-stats.herokuapp.com/?user=IndranilBhattacharya&theme=radical&hide_border=true&background=00000000" />
 </div>
 
 ## 🎯 Featured Projects
 
 <div align="left">
-[![Music Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=music-portfolio&theme=radical&border_color=9ca3af&bg_color=00000000)](https://github.com/IndranilBhattacharya/music-portfolio)
 
-[![Key Blocker](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=key-blocker&theme=radical&border_color=9ca3af&bg_color=00000000)](https://github.com/IndranilBhattacharya/key-blocker)
+[![Music Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=subhasish-music-portfolio&theme=radical&border_color=9ca3af&bg_color=00000000&&border_radius=8)](https://github.com/IndranilBhattacharya/music-portfolio)
+[![Key Blocker](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=KEY_BLOCKER&theme=radical&border_color=9ca3af&bg_color=00000000&&border_radius=8)](https://github.com/IndranilBhattacharya/key-blocker)
 </div>
