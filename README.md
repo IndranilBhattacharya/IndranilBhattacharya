@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <div align="left"> 
-  <img width="48%" style="border-radius:8px;" src="https://github-readme-stats.vercel.app/api?username=IndranilBhattacharya&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <img width="48%" style="border-radius:8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndranilBhattacharya&layout=compact&langs_count=7&show_icons=true&theme=radical&count_private=true&hide_border=true" />
   <img width="48%" style="border-radius:8px;" src="https://github-readme-streak-stats.herokuapp.com/?user=IndranilBhattacharya&theme=radical&hide_border=true" />
 </div>
 
