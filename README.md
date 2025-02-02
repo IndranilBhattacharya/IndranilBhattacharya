@@ -13,11 +13,11 @@
 
 ## 💫 About Me
 
-- 🔭 Currently working as an **IT Analyst** at **TCS**  
-- 🌱 Specializing in **UI/UX Design** and **Full Stack Development**  
-- 🏆 Achieved **Nation Rank 129** in TCS CodeVita  
-- 💻 Solved **300+** problems on LeetCode and Codeforces  
-- 🚀 Building innovative solutions with **GenAI** and modern web technologies  
+- 🔭 Currently working as an **IT Analyst** at **TCS**
+- 🌱 Specializing in **UI/UX Design** and **Full Stack Development**
+- 🏆 Achieved **Nation Rank 129** in TCS CodeVita
+- 💻 Solved **300+** problems on LeetCode and Codeforces
+- 🚀 Building innovative solutions with **GenAI** and modern web technologies
 
 ## 🛠️ Tech Stack
 
@@ -50,9 +50,9 @@
 </div>
 
 <div align="left"> 
-  <img width="48%" style="border-radius:8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndranilBhattacharya&layout=compact&langs_count=7&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=00000000" />
+  <img width="50%" style="border-radius:8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndranilBhattacharya&layout=compact&langs_count=7&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=00000000" />
 
-<img width="48%" style="border-radius:8px;" src="https://github-readme-streak-stats.herokuapp.com/?user=IndranilBhattacharya&theme=radical&hide_border=true&background=00000000" />
+<img width="50%" style="border-radius:8px;" src="https://github-readme-streak-stats.herokuapp.com/?user=IndranilBhattacharya&theme=radical&hide_border=true&background=00000000" />
 </div>
 
 ## 🎯 Featured Projects
