@@ -45,16 +45,8 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IndranilBhattacharya&theme=radical&row=1&column=7" alt="trophy" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IndranilBhattacharya&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<div align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndranilBhattacharya&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IndranilBhattacharya&theme=radical" alt="GitHub Streak" />
 </div>
 
