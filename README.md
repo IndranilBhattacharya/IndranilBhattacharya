@@ -62,8 +62,8 @@
 
 <div align="center">
 
-[![Music Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=music-portfolio&theme=radical)](https://github.com/IndranilBhattacharya/music-portfolio)
-[![Key Blocker](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=key-blocker&theme=radical)](https://github.com/IndranilBhattacharya/key-blocker)
+[![Music Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=subhasish-music-portfolio&theme=radical)](https://github.com/IndranilBhattacharya/music-portfolio)
+[![Key Blocker](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=KEY_BLOCKER&theme=radical)](https://github.com/IndranilBhattacharya/key-blocker)
 
 </div>
 
