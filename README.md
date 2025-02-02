@@ -74,12 +74,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=IndranilBhattacharya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
----
-
-<div align="center">
-  <i>Let's connect and build something amazing together!</i>
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
-</div>
