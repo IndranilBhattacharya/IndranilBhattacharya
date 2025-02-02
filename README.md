@@ -58,8 +58,7 @@
 ## 🎯 Featured Projects
 
 <div align="left">
+[![Music Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=music-portfolio&theme=radical&border_color=9ca3af&bg_color=00000000)](https://github.com/IndranilBhattacharya/music-portfolio)
 
-[![Music Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=subhasish-music-portfolio&theme=radical&border_radius=8)](https://github.com/IndranilBhattacharya/music-portfolio)
-[![Key Blocker](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=KEY_BLOCKER&theme=radical&border_radius=8)](https://github.com/IndranilBhattacharya/key-blocker)
-
+[![Key Blocker](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=key-blocker&theme=radical&border_color=9ca3af&bg_color=00000000)](https://github.com/IndranilBhattacharya/key-blocker)
 </div>
