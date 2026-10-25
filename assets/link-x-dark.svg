@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="202" height="40" viewBox="0 0 202 40" role="img" aria-label="@IndranilBuilds">
+  <rect x="0.5" y="0.5" width="201" height="39" rx="10" fill="#161b22" stroke="#30363d"/>
+  <g transform="translate(16 12) scale(0.6667)" fill="#3fb950"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></g>
+  <text x="105.0" y="25" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#e6edf3">@IndranilBuilds</text>
+  <path d="M178 24l8-8m-6 0h6v6" fill="none" stroke="#6e7681" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

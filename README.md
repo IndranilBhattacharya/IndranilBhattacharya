@@ -4,52 +4,36 @@
 </picture>
 
 <p>
-  <a href="https://indranildev.in"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-indranildev.in-1a7f37?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/indranil-bhattacharya/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-indranil--bhattacharya-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:indranil.b.professional@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-indranil.b.professional-555?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/u/Indranil-Bhattacharya"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Indranil--Bhattacharya-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
-  <a href="https://x.com/IndranilBuilds"><img alt="X" src="https://img.shields.io/badge/X-@IndranilBuilds-000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://indranildev.in"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-portfolio-dark.svg"><img alt="Portfolio" src="assets/link-portfolio-light.svg" height="36"></picture></a>
+  <a href="https://www.linkedin.com/in/indranil-bhattacharya/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img alt="LinkedIn" src="assets/link-linkedin-light.svg" height="36"></picture></a>
+  <a href="mailto:indranil.b.professional@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-email-dark.svg"><img alt="Email" src="assets/link-email-light.svg" height="36"></picture></a>
+  <a href="https://leetcode.com/u/Indranil-Bhattacharya"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-leetcode-dark.svg"><img alt="LeetCode" src="assets/link-leetcode-light.svg" height="36"></picture></a>
+  <a href="https://x.com/IndranilBuilds"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-x-dark.svg"><img alt="X @IndranilBuilds" src="assets/link-x-light.svg" height="36"></picture></a>
 </p>
 
-Full-stack engineer with a designer's eye, shipping software since 2019. Currently an **IT Analyst at Tata Consultancy Services**, where I build GenAI and NLP products end to end, from the Figma file to the deployment pipeline.
+```text
+$ git log --graph career
+* 2023 → now    IT Analyst · TCS
+│               GenAI chat platform on decision trees · NLP support assistant
+│               Neo4j SOP-merger PoC, shipped in 2 days
+* 2021 → 2023   System Engineer · TCS
+│               UI component libraries + multi-step forms engine, from scratch
+* 2019 → 2021   Assistant System Engineer · TCS
+                first production commit
+```
 
-### What I'm working on
+**CodeVita National Rank 129** · **300+** DSA problems solved · campus interview panelist at TCS
 
-- Leading a **configurable GenAI chat platform**: questionnaires, forms, file downloads and free-form chat, all running on persistent decision trees.
-- Built an **NLP support assistant** (neural nets + Naive Bayes, cosine-similarity recommendations) for internal support.
-- Prototyped an **SOP knowledge merger** in two days: PDF chunks stitched into coherent documents through a Neo4j graph.
+### Shipped on the side
 
-### A few things I'm proud of
-
-- Our Jenkins + Bitbucket deploys kept failing, so I wrote an **in-house CI/CD pipeline in Spring Boot** that ships Angular builds to Windows servers.
-- Designed and built **UI component libraries from scratch** and a Google Forms-style **multi-step forms engine** for patient support programs (Angular 15, Figma).
-- **National Rank 129** in TCS CodeVita. 300+ problems solved across LeetCode and Codeforces.
-- Interview panelist for TCS Digital and Prime campus hiring.
-
-### Side projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Music Producer Portfolio**<br>[Live](https://subhasishmusic.com/) · [Code](https://github.com/IndranilBhattacharya/subhasish-music-portfolio) | Portfolio for a music producer with live YouTube and Spotify data | Next.js, TypeScript, Framer Motion |
-| **KEY BLOCKER**<br>[Chrome Web Store](https://chromewebstore.google.com/detail/mpicjlfceecpdhjignmoaipcgpdaoogl) · [Code](https://github.com/IndranilBhattacharya/KEY_BLOCKER) | Privacy-first Chrome extension that blocks distracting sites, synced across devices | JavaScript, Chrome APIs |
-| **Web Annotator Tool**<br>[Code](https://github.com/IndranilBhattacharya/Web-Annotator-Tool) | Custom web annotation tool | React, Vite, TypeScript, shadcn/ui |
-| **fbook**<br>[Live](https://fbook.vercel.app) · [Code](https://github.com/IndranilBhattacharya/fbook) | Social media frontend prototype | Angular, TypeScript |
-| **Simple Multi-Band Compressor**<br>[Code](https://github.com/IndranilBhattacharya/Simple-Multi-Band-Compressor) | VST audio plug-in | C++ |
-
-### Toolbox
-
-<p>
-  <img alt="Tech stack" src="https://skillicons.dev/icons?i=ts,angular,react,nextjs,tailwind,java,spring,nodejs,py,fastapi,firebase,azure,aws,figma,electron&perline=15">
-</p>
-
-| Area | Tools |
+| Project | What it does |
 |---|---|
-| AI / ML | GenAI, NLP, neural networks, Naive Bayes |
-| Frontend | TypeScript, Angular, React, Next.js, Tailwind, shadcn/ui, PrimeNG, Material UI, Framer Motion |
-| Backend | Java, Spring Boot, Node.js, Python, FastAPI |
-| Data & cloud | Neo4j, Oracle, Firebase, Azure, AWS EC2 |
-| Design & desktop | Figma, Electron, Chrome Extensions |
+| **Music Producer Portfolio** · [live ↗](https://subhasishmusic.com/) | Next.js site pulling live YouTube + Spotify data |
+| **KEY BLOCKER** · [Chrome Web Store ↗](https://chromewebstore.google.com/detail/mpicjlfceecpdhjignmoaipcgpdaoogl) | Privacy-first site blocker with cross-device sync |
+| **Web Annotator Tool** · [code ↗](https://github.com/IndranilBhattacharya/Web-Annotator-Tool) | Custom web annotation tool · React, Vite, shadcn/ui |
 
----
+### Stack
 
-Open to conversations about AI product engineering and frontend architecture. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/indranil-bhattacharya/) or [email](mailto:indranil.b.professional@gmail.com).
+<img alt="TypeScript, React, Next.js, Tailwind, Node.js, Python, FastAPI, Azure, Firebase, Figma, Electron" src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,py,fastapi,azure,firebase,figma,electron">
+
+`GenAI` `NLP` `Neo4j` `shadcn/ui` `Framer Motion`
