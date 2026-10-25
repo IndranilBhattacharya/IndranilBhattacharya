@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Indranil Bhattacharya — I build AI products that feel effortless.">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#161b22" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#0d1117" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#0d1117" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#0d1117" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="#0d1117"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="none" stroke="#30363d"/>
+
+  <g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif">
+    <text x="64" y="92" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="15" letter-spacing="3" fill="#3fb950">AI ENGINEER  ·  FULL-STACK  ·  UI/UX</text>
+    <text x="62" y="160" font-size="56" font-weight="700" letter-spacing="-1" fill="#f0f6fc">Indranil Bhattacharya</text>
+    <text x="64" y="204" font-size="24" fill="#c9d1d9">I build AI products that feel effortless.</text>
+    <line x1="64" y1="240" x2="112" y2="240" stroke="#3fb950" stroke-width="3" stroke-linecap="round"/>
+    <text x="64" y="270" font-size="16" fill="#8b949e">IT Analyst at TCS  ·  Kolkata, India  ·  Shipping since 2019</text>
+  </g>
+
+  <!-- decision tree -->
+  <g stroke="#30363d" stroke-width="2" fill="none">
+    <path d="M900 80 C900 120 820 120 820 160"/>
+    <path d="M900 80 V160"/>
+    <path d="M900 80 C900 120 980 120 980 160"/>
+    <path d="M820 160 C820 200 780 200 780 240"/>
+    <path d="M820 160 C820 200 860 200 860 240"/>
+    <path d="M980 160 C980 200 940 200 940 240"/>
+    <path d="M980 160 C980 200 1020 200 1020 240"/>
+    <path d="M1020 240 C1020 262 1060 262 1060 280" stroke-dasharray="4 5"/>
+  </g>
+  <g stroke="#3fb950" stroke-width="3" fill="none">
+    <path d="M900 80 C900 120 980 120 980 160"/>
+    <path d="M980 160 C980 200 1020 200 1020 240"/>
+  </g>
+  <g fill="#0d1117" stroke="#30363d" stroke-width="2">
+    <circle cx="900" cy="160" r="8"/>
+    <circle cx="820" cy="160" r="8"/>
+    <circle cx="780" cy="240" r="7"/>
+    <circle cx="860" cy="240" r="7"/>
+    <circle cx="940" cy="240" r="7"/>
+    <circle cx="1060" cy="282" r="5"/>
+  </g>
+  <g fill="#3fb950">
+    <circle cx="900" cy="80" r="10"/>
+    <circle cx="980" cy="160" r="9"/>
+    <circle cx="1020" cy="240" r="8"/>
+  </g>
+</svg>
