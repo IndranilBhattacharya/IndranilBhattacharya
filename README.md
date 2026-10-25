@@ -1,64 +1,44 @@
-<div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=750&color=2C974B&center=false&vCenter=true&multiline=true&width=535&height=100&repeat=false&lines=Hi+%F0%9F%91%8B+I'm+Indranil+Bhattacharya;UI%2FUX+Designer+%7C+Full+Stack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+### Hi, I'm Indranil.
 
-<div align="left">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-indranildev.in-blue?style=for-the-badge&logo=firefox-browser&logoColor=white&border-radius=8)](https://indranildev.in)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&border-radius=8)](https://www.linkedin.com/in/indranil-bhattacharya/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&border-radius=8)](https://github.com/IndranilBhattacharya)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&border-radius=8)](mailto:indranil.b.professional@gmail.com)
+I build AI products that feel effortless. Full-stack engineer with a designer's eye, shipping software since 2019. Currently an **IT Analyst at Tata Consultancy Services**, Kolkata.
 
-</div>
+[Portfolio](https://indranildev.in) · [LinkedIn](https://www.linkedin.com/in/indranil-bhattacharya/) · [Email](mailto:indranil.b.professional@gmail.com) · [LeetCode](https://leetcode.com/u/Indranil-Bhattacharya) · [X](https://x.com/IndranilBuilds)
 
-## 💫 About Me
+---
 
-- 🔭 Currently working as an **IT Analyst** at **TCS**
-- 🌱 Specializing in **UI/UX Design** and **Full Stack Development**
-- 🏆 Achieved **Nation Rank 129** in TCS CodeVita
-- 💻 Solved **300+** problems on LeetCode and Codeforces
-- 🚀 Building innovative solutions with **GenAI** and modern web technologies
+#### What I'm working on
 
-## 🛠️ Tech Stack
+- Leading a **configurable GenAI chat platform**: questionnaires, forms, file downloads and free-form chat, all running on persistent decision trees.
+- Built an **NLP support assistant** (neural nets + Naive Bayes, cosine-similarity recommendations) for internal support.
+- Prototyped an **SOP knowledge merger** in two days: PDF chunks stitched into coherent documents through a Neo4j graph.
 
-<div align="left">
+#### A few things I'm proud of
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&border-radius=8)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&border-radius=8)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&border-radius=8)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&border-radius=8)
+- Our Jenkins + Bitbucket deploys kept failing, so I wrote an **in-house CI/CD pipeline in Spring Boot** that ships Angular builds to Windows servers.
+- Designed and built **UI component libraries from scratch** and a Google Forms-style **multi-step forms engine** for patient support programs (Angular 15, Figma).
+- **National Rank 129** in TCS CodeVita. 300+ problems solved across LeetCode and Codeforces.
+- Interview panelist for TCS Digital and Prime campus hiring.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&border-radius=8)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&border-radius=8)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&border-radius=8)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&border-radius=8)
+#### Side projects
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&border-radius=8)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&border-radius=8)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&border-radius=8)
+| Project | What it is | Stack |
+|---|---|---|
+| [Music Producer Portfolio](https://github.com/IndranilBhattacharya/subhasish-music-portfolio) · [live](https://subhasishmusic.com/) | Portfolio for a music producer with live YouTube and Spotify data | Next.js, TypeScript, Framer Motion |
+| [KEY BLOCKER](https://github.com/IndranilBhattacharya/KEY_BLOCKER) · [Chrome Web Store](https://chromewebstore.google.com/detail/mpicjlfceecpdhjignmoaipcgpdaoogl) | Privacy-first Chrome extension that blocks distracting sites, synced across devices | JavaScript, Chrome APIs |
+| [Web Annotator Tool](https://github.com/IndranilBhattacharya/Web-Annotator-Tool) | Custom web annotation tool | React, Vite, TypeScript, shadcn/ui |
+| [fbook](https://github.com/IndranilBhattacharya/fbook) · [live](https://fbook.vercel.app) | Social media frontend prototype | Angular, TypeScript |
+| [Simple Multi-Band Compressor](https://github.com/IndranilBhattacharya/Simple-Multi-Band-Compressor) | VST audio plug-in | C++ |
 
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white&border-radius=8)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&border-radius=8)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&border-radius=8)
+#### Toolbox
 
-</div>
+| | |
+|---|---|
+| **AI / ML** | GenAI, LLM apps, NLP, neural networks, Naive Bayes |
+| **Frontend** | TypeScript, Angular, React, Next.js, Tailwind, shadcn/ui, PrimeNG, Material UI, Framer Motion |
+| **Backend** | Java, Spring Boot, Node.js, Python, FastAPI |
+| **Data & cloud** | Neo4j, Oracle, Firebase, Azure, AWS EC2 |
+| **Design & desktop** | Figma, Electron, Chrome Extensions |
 
-## 📊 GitHub Stats
+---
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=IndranilBhattacharya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="border-radius:8px;" />
-</div>
-
-<div align="left"> 
-  <img width="48%" style="border-radius:8px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndranilBhattacharya&layout=compact&langs_count=7&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=00000000" />
-
-<img width="48%" style="border-radius:8px;" src="https://github-readme-streak-stats.herokuapp.com/?user=IndranilBhattacharya&theme=radical&hide_border=true&background=00000000" />
-</div>
-
-## 🎯 Featured Projects
-
-<div align="left">
-
-[![Music Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=subhasish-music-portfolio&theme=radical&border_color=9ca3af&bg_color=00000000&&border_radius=8)](https://github.com/IndranilBhattacharya/music-portfolio)
-[![Key Blocker](https://github-readme-stats.vercel.app/api/pin/?username=IndranilBhattacharya&repo=KEY_BLOCKER&theme=radical&border_color=9ca3af&bg_color=00000000&&border_radius=8)](https://github.com/IndranilBhattacharya/key-blocker)
-</div>
+Open to conversations about AI product engineering and frontend architecture. The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/indranil-bhattacharya/) or [email](mailto:indranil.b.professional@gmail.com).
