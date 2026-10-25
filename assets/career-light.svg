@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-label="Career: feat: IT Analyst @ TCS · GenAI chat platform on decision trees; poc(neo4j): SOP knowledge merger, built in 2 days; feat: NLP support assistant · neural nets + Naive Bayes; ci: own deploy pipeline after Jenkins kept failing; feat: System Engineer @ TCS · UI libraries + multi-step forms engine; init: Assistant System Engineer @ TCS. #129 national rank · TCS CodeVita; 300+ DSA problems solved; 7 yrs shipping to production">
+  <rect x="0.5" y="0.5" width="1199" height="539" rx="16" fill="#ffffff" stroke="#d0d7de"/>
+  <path d="M1 56V17a16 16 0 0 1 16-16h1166a16 16 0 0 1 16 16V56z" fill="#f6f8fa"/>
+  <path d="M0 56.5H1200" stroke="#d0d7de"/>
+  <text x="32" y="34" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#656d76"><tspan fill="#1a7f37">$</tspan> git log --graph --oneline <tspan fill="#1f2328">career</tspan></text>
+  <text x="1168" y="34" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#656d76">main · 6 commits</text>
+  <path d="M64 118V378" stroke="#1a7f37" stroke-width="3"/>
+  <path d="M64 274C64 236 100 226 100 190V170C100 146 64 146 64 118" fill="none" stroke="#656d76" stroke-width="2.5"/>
+  <circle cx="64" cy="118" r="12" fill="#1a7f37" opacity="0.25"/><circle cx="64" cy="118" r="7" fill="#1a7f37"/>
+  <rect x="150" y="105" width="106" height="26" rx="13" fill="none" stroke="#1a7f37" stroke-width="1.5"/><text x="203" y="123" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#1a7f37">HEAD → main</text>
+  <text x="268" y="124" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="16" fill="#1f2328"><tspan fill="#1a7f37">feat:</tspan> IT Analyst @ TCS · GenAI chat platform on decision trees</text>
+  <text x="1168" y="124" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#656d76">2023 — now</text>
+  <circle cx="100" cy="170" r="6" fill="#ffffff" stroke="#656d76" stroke-width="3"/>
+  <rect x="150" y="157" width="129" height="26" rx="13" fill="none" stroke="#656d76" stroke-width="1.5"/><text x="215" y="175" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#656d76">poc/sop-merger</text>
+  <text x="291" y="176" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="16" fill="#1f2328"><tspan fill="#1a7f37">poc(neo4j):</tspan> SOP knowledge merger, built in 2 days</text>
+  <circle cx="64" cy="222" r="6" fill="#ffffff" stroke="#1a7f37" stroke-width="3"/>
+  <text x="150" y="228" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="16" fill="#1f2328"><tspan fill="#1a7f37">feat:</tspan> NLP support assistant · neural nets + Naive Bayes</text>
+  <circle cx="64" cy="274" r="6" fill="#ffffff" stroke="#1a7f37" stroke-width="3"/>
+  <text x="150" y="280" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="16" fill="#1f2328"><tspan fill="#1a7f37">ci:</tspan> own deploy pipeline after Jenkins kept failing</text>
+  <circle cx="64" cy="326" r="6" fill="#ffffff" stroke="#1a7f37" stroke-width="3"/>
+  <text x="150" y="332" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="16" fill="#1f2328"><tspan fill="#1a7f37">feat:</tspan> System Engineer @ TCS · UI libraries + multi-step forms engine</text>
+  <text x="1168" y="332" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#656d76">2021</text>
+  <circle cx="64" cy="378" r="7" fill="#ffffff" stroke="#1a7f37" stroke-width="3"/>
+  <text x="150" y="384" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="16" fill="#1f2328"><tspan fill="#1a7f37">init:</tspan> Assistant System Engineer @ TCS</text>
+  <text x="1168" y="384" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#656d76">2019</text>
+  <path d="M32 426H1168" stroke="#d0d7de" stroke-dasharray="4 6"/>
+  <text x="32" y="480" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#1f2328">#129</text><text x="32" y="508" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#656d76">national rank · TCS CodeVita</text>
+  <text x="411" y="480" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#1f2328">300+</text><text x="411" y="508" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#656d76">DSA problems solved</text>
+  <text x="789" y="480" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#1f2328">7 yrs</text><text x="789" y="508" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#656d76">shipping to production</text>
+</svg>

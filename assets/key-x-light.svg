@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="188" height="64" viewBox="0 0 188 64" role="img" aria-label="@IndranilBuilds">
+  <rect x="1" y="5" width="186" height="58" rx="10" fill="#d0d7de"/>
+  <rect x="1" y="1" width="186" height="56" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+  <g transform="translate(14 12) scale(0.75)" fill="#1f2328" color="#1f2328"><path d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></g>
+  <path d="M164 22l8-8m-6 0h6v6" fill="none" stroke="#656d76" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="14" y="47" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#656d76">@IndranilBuilds</text>
+</svg>

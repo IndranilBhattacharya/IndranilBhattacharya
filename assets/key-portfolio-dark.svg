@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="64" viewBox="0 0 210 64" role="img" aria-label="indranildev.in">
+  <rect x="1" y="5" width="208" height="58" rx="10" fill="#196c2e"/>
+  <rect x="1" y="1" width="208" height="56" rx="10" fill="#238636" stroke="#196c2e"/>
+  <g transform="translate(14 12) scale(0.75)" fill="#ffffff" color="#ffffff"><g fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><ellipse cx="12" cy="12" rx="4.5" ry="10"/><path d="M2 12h20"/></g></g>
+  <path d="M196 14v9h-12m4-4l-4 4 4 4" fill="none" stroke="#ffffff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="14" y="47" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="13" fill="#ffffff">indranildev.in</text>
+</svg>
